@@ -64,4 +64,10 @@ In the initialized Ybus matrix you have diagonal and off-diagonal elements. You 
 
 ![image](https://github.com/yavuzCodiin/Bus_Admittance_Matrix/assets/82445309/ebcd3730-8356-45cf-b61b-2ede027784ea)
 
+## OUTPUT
+![image](https://github.com/yavuzCodiin/Bus_Admittance_Matrix/assets/82445309/78b5260c-4f2b-4c37-96ce-336709001b19)
+
+![image](https://github.com/yavuzCodiin/Bus_Admittance_Matrix/assets/82445309/2704c9b0-c284-4c52-a982-0d73436a9f42)
+
+
 
